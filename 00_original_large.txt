@@ -1,0 +1,32 @@
+------
+Date(2011-06-24 09:26:37)
+time = 14945.064666 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:26:58)
+time = 14611.288004 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:27:13)
+time = 15095.961768 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:27:29)
+time = 15623.378799 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.

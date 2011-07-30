@@ -1,0 +1,480 @@
+------
+Date(2011-06-24 09:22:14)
+time = 1665.980957 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:16)
+time = 1359.794594 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:18)
+time = 1360.637892 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:20)
+time = 1343.432113 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:21)
+time = 1332.945361 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:23)
+time = 1323.402221 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:24)
+time = 1290.588466 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:25)
+time = 1311.654122 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:27)
+time = 1312.877553 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:28)
+time = 1317.69208 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:29)
+time = 1287.438457 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:31)
+time = 1309.35413 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:32)
+time = 1294.686885 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:33)
+time = 1292.352337 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:35)
+time = 1362.30769 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:36)
+time = 1371.480298 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:38)
+time = 1367.399157 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:39)
+time = 1368.685943 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:40)
+time = 1342.78464 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:42)
+time = 1326.702939 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:43)
+time = 1301.169291 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:44)
+time = 1284.195814 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:46)
+time = 1292.566401 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:47)
+time = 1316.575201 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:48)
+time = 1272.979996 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:50)
+time = 1268.29218 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:51)
+time = 1277.56126 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:52)
+time = 1254.983235 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:54)
+time = 1288.705563 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:55)
+time = 1334.390056 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:57)
+time = 1354.39259 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:58)
+time = 1347.741717 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:22:59)
+time = 1321.63883 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:01)
+time = 1262.107353 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:02)
+time = 1265.821801 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:03)
+time = 1280.185228 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:05)
+time = 1275.693237 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:06)
+time = 1287.261829 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:07)
+time = 1269.434976 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:09)
+time = 1283.967831 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:10)
+time = 1317.870146 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:11)
+time = 1345.843456 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:13)
+time = 1368.429641 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:14)
+time = 1363.396731 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:16)
+time = 1346.702114 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:17)
+time = 1332.255653 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:18)
+time = 1292.85294 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:20)
+time = 1275.098561 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:21)
+time = 1275.638521 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:22)
+time = 1303.745261 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:24)
+time = 1242.777729 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:25)
+time = 1258.391945 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:26)
+time = 1273.977843 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:27)
+time = 1229.210083 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:29)
+time = 1223.426507 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:30)
+time = 1238.360133 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:31)
+time = 1245.454973 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:33)
+time = 1277.868438 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:34)
+time = 1299.39246 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
+------
+Date(2011-06-24 09:23:35)
+time = 1337.165212 ms
+VM args:
+-Dfile.encoding=Cp1252
+
+Comments:
+Original.
